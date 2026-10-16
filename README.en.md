@@ -7,7 +7,6 @@
 
 <div align="center">
 
-<img src="header.svg" width="100%"/>
 
 <sub><i>If it's not clear to a human, it won't be clear to an AI either.</i></sub>
 
