@@ -7,8 +7,6 @@
 
 <div align="center">
 
-<img src="header.svg" width="100%"/>
-
 <sub><i>Если это непонятно человеку, это не будет понятно и ИИ.</i></sub>
 
 <br/><br/>
